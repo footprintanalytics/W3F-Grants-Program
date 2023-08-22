@@ -118,11 +118,11 @@ In 17 years, our team started to contact blockchain and was one of the early min
 - **FTE:** 2
 - **Costs:** 40,000 USD
 
-| Number | Milestone | Deliverables | Timeline |
-| -----: | ----------- | ------------- |------------- |
-| 1 | Polkdot chain data on Footprint | Structured data table: Polkdot_transactions, Polkdot_token_transfer and more | 6 weeks |
-| 2 | Polkdot chain general dashboard on Footprint | One general Polkdot chain data analytics dashboard | 1 week |
-| 3 | Polkdot chain data APIs on Footprint | Polkdot chain data APIs | 1 week |
+| Number | Milestone | Technical details of the integration | Deliverables | Timeline |
+| -----: | ----------- | ------------- | ------------- |------------- |
+| 1 | Polkdot chain data on Footprint | Get the nodes of Polkdot and get the raw data; Design the table structure of Polkdot; Parse the raw data of Polkdot according to the table structure | Structured data table: Polkdot_transactions, Polkdot_token_transfer and more | 6 weeks |
+| 2 | Polkdot chain general dashboard on Footprint | Use SQL to query metrics from the Footprint dataset and combine all into a dashboard | One general Polkdot chain data analytics dashboard | 1 week |
+| 3 | Polkdot chain data APIs on Footprint | Develop API endpoints | Polkdot chain data APIs | 1 week |
 
 ### Milestone 2 — Index Kusama
 
@@ -130,11 +130,11 @@ In 17 years, our team started to contact blockchain and was one of the early min
 - **FTE:** 2
 - **Costs:** 40,000 USD
 
-| Number | Milestone | Deliverables | Timeline |
-| -----: | ----------- | ------------- |------------- |
-| 1 | Kusama chain data on Footprint | Structured data table: Kusama_transactions, Kusama_token_transfer and more | 6 weeks |
-| 2 | Kusama chain general dashboard on Footprint | One general Kusama chain data analytics dashboard | 1 week |
-| 3 | Kusama chain data APIs on Footprint | Kusama chain data APIs | 1 week |
+| Number | Milestone | Technical details of the integration | Deliverables | Timeline |
+| -----: | ----------- | ------------- | ------------- |------------- |
+| 1 | Kusama chain data on Footprint | Get the nodes of Kusama and get the raw data; Design the table structure of Kusama; Parse the raw data of Kusama according to the table structure | Structured data table: Kusama_transactions, Kusama_token_transfer and more | 6 weeks |
+| 2 | Kusama chain general dashboard on Footprint | Use SQL to query metrics from the Footprint dataset and combine all into a dashboard | One general Kusama chain data analytics dashboard | 1 week |
+| 3 | Kusama chain data APIs on Footprint | Develop API endpoints | Kusama chain data APIs | 1 week |
 
 ## Future Plans
 
